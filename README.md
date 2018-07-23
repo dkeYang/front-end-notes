@@ -1,2 +1,2 @@
 # front-end-notes
-note for front-end study
+> note for front-end study
